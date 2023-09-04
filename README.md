@@ -7,7 +7,7 @@
 5. a
 6. a
 7. a
-8. a
+8. Laczkovich Dániel
 9. a
 10. a
 11. a
