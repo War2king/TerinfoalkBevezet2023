@@ -13,7 +13,7 @@
 11. a
 12. a
 13. Muraközy Mátyás
-14. a
+14. Szász Botond
 15. a
 16. a
 17. a
