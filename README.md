@@ -6,7 +6,7 @@
 4. a
 5. a
 6. a
-7. a
+7. Szabó Zalán
 8. a
 9. a
 10. a
