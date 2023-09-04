@@ -15,7 +15,7 @@
 13. Muraközy Mátyás
 14. Szász Botond
 15. a
-16. a
+16. Vámosi Lánárd
 17. a
 18. a
 19. Viszket Áron
