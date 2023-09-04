@@ -1,8 +1,8 @@
 # Térinformatikai alkalmazások git ismerkedés bevezető 2023
 ## Névsor
-1. a
-2. a
-3. a
+1. Nem használt
+2. Nem használt
+3. Nem használt
 4. a
 5. a 
 6. a
