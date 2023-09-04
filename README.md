@@ -5,7 +5,7 @@
 3. Nem használt
 4. a
 5. a
-6. a
+6. Gubicza Gréta 
 7. a
 8. a
 9. a
