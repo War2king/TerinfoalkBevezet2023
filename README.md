@@ -18,6 +18,6 @@
 16. a
 17. a
 18. a
-19. a
+19. Viszket Áron
 20. a
 21. Kalicz Péter
