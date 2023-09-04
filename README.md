@@ -9,7 +9,7 @@
 7. a
 8. a
 9. a
-10. a
+10. Szendery Gergely
 11. a
 12. a
 13. a
