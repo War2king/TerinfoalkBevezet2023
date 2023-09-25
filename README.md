@@ -7,6 +7,7 @@
 6. Gubicza Gréta 
 7. Szabó Zalán
 8. Laczkovich Dániel
+10. Szendery Gergely
 12. Lőrincz Tamás
 13. Muraközy Mátyás
 14. Szász Botond
