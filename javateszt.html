@@ -2,7 +2,12 @@
 <html>
 	<body>
 		<h1>Hello World!</h1>
-		Saját sor beírása.
+		Novemberi nap beírása:
+		<form action="#">
+		  <input type="text" id="nap">
+		  <input type="submit" onclick="buttonClick()">
+		</form>
+
 		<script>
 		  // Ez egy komment
 		  // Érdemes belepillantani az alábbi tutorialba:
@@ -18,6 +23,19 @@
 		  szemeszterend = new Date(2023, 11, 8, 23, 59, 59); //Dátum megadása 
 		  document.write('<br>',"A szemeszter vége:", szemeszterend,'<br>');
 		  document.write('<br>',"A szemeszter végéig hátralévő idő:", (szemeszterend - now)/1000/60/60/24-1,'<br>');
+		  // Szász Boton megoldása
+		  function buttonClick()
+		  {
+		      var szam=document.getElementById('nap').value;
+		      if (szam<1 || szam >30)
+			  alert("A nap 1 és 30 között kell legyen");
+		      else
+		      {
+			  var vege=new Date(2023, 12, 8);
+			  var vizsgalt=new Date(2023, 11, szam);
+			  alert("A szemeszter végéig " + (((vege-vizsgalt)/1000/60/60/24)-1) + " nap van");
+		      }
+		  }
 		</script>
 		<a href="https://www.w3schools.com/js/default.asp">w3schools tutorial</a>
 	</body>
