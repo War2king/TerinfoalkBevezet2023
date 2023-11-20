@@ -20,6 +20,12 @@
 	     zoom: 10,
 	     maxZoom: 13,
 	     mapId: "TESZ_ID",
+	     disableDefaultUI: true,
+	     zoomControl: true,
+	     zoomControlOptions: 
+	     {
+		 position: google.maps.ControlPosition.TOP_RIGHT // LEFT/RIGHT/TOP/BOTTOM_LEFT/CENTER/RIGHT
+	     },
 	 });
 	 // The marker, positioned at Sopron
 	 const marker = new AdvancedMarkerElement({
